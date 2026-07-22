@@ -1,0 +1,4273 @@
+[
+  {
+    "id": "doc-1",
+    "name": "Dr. Sneha Rao",
+    "gender": "female",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS, MD (General Medicine)",
+    "experienceYears": 22,
+    "languages": [
+      "Gujarati",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Andheri West",
+    "clinicName": "Life Medical Centre, Andheri West",
+    "address": "43, Andheri West Main Road, Mumbai",
+    "lat": 19.02789,
+    "lng": 72.88737,
+    "fee": 550,
+    "rating": 4.4,
+    "reviewCount": 775,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": true,
+    "about": "Sneha is a general physician with 22 years of experience, practising in Andheri West, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-2",
+    "name": "Dr. Ishita Mehta",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Pediatrics)",
+    "experienceYears": 21,
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Bandra",
+    "clinicName": "Shree Medical Centre, Bandra",
+    "address": "188, Bandra Main Road, Mumbai",
+    "lat": 19.06006,
+    "lng": 72.92392,
+    "fee": 950,
+    "rating": 4.8,
+    "reviewCount": 538,
+    "reviews": [
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Ishita is a pediatrician with 21 years of experience, practising in Bandra, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-3",
+    "name": "Dr. Pranav Pillai",
+    "gender": "male",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Obs & Gyn)",
+    "experienceYears": 8,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Powai",
+    "clinicName": "Life Polyclinic, Powai",
+    "address": "36, Powai Main Road, Mumbai",
+    "lat": 19.0794,
+    "lng": 72.9186,
+    "fee": 700,
+    "rating": 3.7,
+    "reviewCount": 592,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Pranav is a gynecologist & obstetrician with 8 years of experience, practising in Powai, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-4",
+    "name": "Dr. Suresh Menon",
+    "gender": "male",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, DDVL",
+    "experienceYears": 12,
+    "languages": [
+      "English",
+      "Marathi"
+    ],
+    "city": "Mumbai",
+    "area": "Dadar",
+    "clinicName": "City Medical Centre, Dadar",
+    "address": "80, Dadar Main Road, Mumbai",
+    "lat": 19.06506,
+    "lng": 72.8791,
+    "fee": 700,
+    "rating": 4,
+    "reviewCount": 919,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 3,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Suresh is a dermatologist with 12 years of experience, practising in Dadar, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-5",
+    "name": "Dr. Vidya Rao",
+    "gender": "female",
+    "specialty": "Cardiologist",
+    "specialtyKey": "cardiologist",
+    "specialtyHi": "हृदय रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Cardiology)",
+    "experienceYears": 26,
+    "languages": [
+      "Gujarati",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Bandra",
+    "clinicName": "Life Clinic, Bandra",
+    "address": "83, Bandra Main Road, Mumbai",
+    "lat": 19.07686,
+    "lng": 72.88514,
+    "fee": 1750,
+    "rating": 3.9,
+    "reviewCount": 311,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Vidya is a cardiologist with 26 years of experience, practising in Bandra, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-6",
+    "name": "Dr. Aparna Mehta",
+    "gender": "female",
+    "specialty": "Orthopedic Surgeon",
+    "specialtyKey": "orthopedist",
+    "specialtyHi": "हड्डी रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Orthopedics)",
+    "experienceYears": 26,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Mumbai",
+    "area": "Borivali",
+    "clinicName": "Arogya Clinic, Borivali",
+    "address": "60, Borivali Main Road, Mumbai",
+    "lat": 19.04887,
+    "lng": 72.83346,
+    "fee": 850,
+    "rating": 4.4,
+    "reviewCount": 142,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Aparna is a orthopedic surgeon with 26 years of experience, practising in Borivali, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-7",
+    "name": "Dr. Vikram Mukherjee",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "specialtyKey": "ent",
+    "specialtyHi": "कान-नाक-गला विशेषज्ञ",
+    "qualifications": "MBBS, MS (ENT)",
+    "experienceYears": 13,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Andheri West",
+    "clinicName": "Health Medical Centre, Andheri West",
+    "address": "58, Andheri West Main Road, Mumbai",
+    "lat": 19.12375,
+    "lng": 72.84344,
+    "fee": 750,
+    "rating": 4.6,
+    "reviewCount": 930,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Vikram is a ent specialist with 13 years of experience, practising in Andheri West, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-8",
+    "name": "Dr. Neha Krishnan",
+    "gender": "female",
+    "specialty": "Ophthalmologist",
+    "specialtyKey": "ophthalmologist",
+    "specialtyHi": "नेत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Ophthalmology)",
+    "experienceYears": 16,
+    "languages": [
+      "English",
+      "Marathi"
+    ],
+    "city": "Mumbai",
+    "area": "Andheri West",
+    "clinicName": "Shree Medical Centre, Andheri West",
+    "address": "4, Andheri West Main Road, Mumbai",
+    "lat": 19.04838,
+    "lng": 72.83221,
+    "fee": 500,
+    "rating": 3.9,
+    "reviewCount": 65,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Neha is a ophthalmologist with 16 years of experience, practising in Andheri West, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-9",
+    "name": "Dr. Mohit Rao",
+    "gender": "male",
+    "specialty": "Psychiatrist",
+    "specialtyKey": "psychiatrist",
+    "specialtyHi": "मनोचिकित्सक",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "experienceYears": 12,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Borivali",
+    "clinicName": "Prime Medical Centre, Borivali",
+    "address": "54, Borivali Main Road, Mumbai",
+    "lat": 19.07188,
+    "lng": 72.83386,
+    "fee": 1600,
+    "rating": 3.9,
+    "reviewCount": 750,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Mohit is a psychiatrist with 12 years of experience, practising in Borivali, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-10",
+    "name": "Dr. Aditya Shah",
+    "gender": "male",
+    "specialty": "Dentist",
+    "specialtyKey": "dentist",
+    "specialtyHi": "दंत चिकित्सक",
+    "qualifications": "BDS, MDS",
+    "experienceYears": 8,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Bandra",
+    "clinicName": "Prime Medical Centre, Bandra",
+    "address": "96, Bandra Main Road, Mumbai",
+    "lat": 19.03892,
+    "lng": 72.88308,
+    "fee": 400,
+    "rating": 4.8,
+    "reviewCount": 619,
+    "reviews": [
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Aditya is a dentist with 8 years of experience, practising in Bandra, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-11",
+    "name": "Dr. Aditya Choudhary",
+    "gender": "male",
+    "specialty": "Neurologist",
+    "specialtyKey": "neurologist",
+    "specialtyHi": "तंत्रिका रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Neurology)",
+    "experienceYears": 20,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Mumbai",
+    "area": "Bandra",
+    "clinicName": "Care Clinic, Bandra",
+    "address": "94, Bandra Main Road, Mumbai",
+    "lat": 19.10292,
+    "lng": 72.85332,
+    "fee": 2050,
+    "rating": 4.1,
+    "reviewCount": 204,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Aditya is a neurologist with 20 years of experience, practising in Bandra, Mumbai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-12",
+    "name": "Dr. Mohit Nair",
+    "gender": "male",
+    "specialty": "Gastroenterologist",
+    "specialtyKey": "gastroenterologist",
+    "specialtyHi": "पेट रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Gastroenterology)",
+    "experienceYears": 15,
+    "languages": [
+      "English",
+      "Punjabi"
+    ],
+    "city": "Delhi",
+    "area": "Karol Bagh",
+    "clinicName": "Prime Polyclinic, Karol Bagh",
+    "address": "174, Karol Bagh Main Road, Delhi",
+    "lat": 28.64562,
+    "lng": 77.24707,
+    "fee": 950,
+    "rating": 4.9,
+    "reviewCount": 153,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": true,
+    "about": "Mohit is a gastroenterologist with 15 years of experience, practising in Karol Bagh, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-13",
+    "name": "Dr. Rekha Desai",
+    "gender": "female",
+    "specialty": "Diabetologist",
+    "specialtyKey": "diabetologist",
+    "specialtyHi": "मधुमेह विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), Fellowship in Diabetology",
+    "experienceYears": 26,
+    "languages": [
+      "Punjabi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Karol Bagh",
+    "clinicName": "City Polyclinic, Karol Bagh",
+    "address": "38, Karol Bagh Main Road, Delhi",
+    "lat": 28.59157,
+    "lng": 77.25468,
+    "fee": 1050,
+    "rating": 3.9,
+    "reviewCount": 714,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Rekha is a diabetologist with 26 years of experience, practising in Karol Bagh, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-14",
+    "name": "Dr. Aparna Nair",
+    "gender": "female",
+    "specialty": "Urologist",
+    "specialtyKey": "urologist",
+    "specialtyHi": "मूत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "experienceYears": 10,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Delhi",
+    "area": "Dwarka",
+    "clinicName": "Prime Clinic, Dwarka",
+    "address": "150, Dwarka Main Road, Delhi",
+    "lat": 28.56508,
+    "lng": 77.1811,
+    "fee": 1450,
+    "rating": 4,
+    "reviewCount": 689,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Aparna is a urologist with 10 years of experience, practising in Dwarka, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-15",
+    "name": "Dr. Sanjay Menon",
+    "gender": "male",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS, MD (General Medicine)",
+    "experienceYears": 32,
+    "languages": [
+      "Punjabi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Karol Bagh",
+    "clinicName": "Shree Medical Centre, Karol Bagh",
+    "address": "226, Karol Bagh Main Road, Delhi",
+    "lat": 28.60969,
+    "lng": 77.23474,
+    "fee": 850,
+    "rating": 4.8,
+    "reviewCount": 885,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Sanjay is a general physician with 32 years of experience, practising in Karol Bagh, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-16",
+    "name": "Dr. Anjali Pillai",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, DCH",
+    "experienceYears": 31,
+    "languages": [
+      "Hindi",
+      "Punjabi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Saket",
+    "clinicName": "Shree Speciality Clinic, Saket",
+    "address": "234, Saket Main Road, Delhi",
+    "lat": 28.57179,
+    "lng": 77.18823,
+    "fee": 700,
+    "rating": 4.8,
+    "reviewCount": 805,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Anjali is a pediatrician with 31 years of experience, practising in Saket, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-17",
+    "name": "Dr. Vikram Singh",
+    "gender": "male",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Obs & Gyn)",
+    "experienceYears": 29,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Dwarka",
+    "clinicName": "Health Speciality Clinic, Dwarka",
+    "address": "124, Dwarka Main Road, Delhi",
+    "lat": 28.63812,
+    "lng": 77.20931,
+    "fee": 800,
+    "rating": 4.8,
+    "reviewCount": 589,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Vikram is a gynecologist & obstetrician with 29 years of experience, practising in Dwarka, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-18",
+    "name": "Dr. Swati Iyer",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, DDVL",
+    "experienceYears": 31,
+    "languages": [
+      "Punjabi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Saket",
+    "clinicName": "Family Clinic, Saket",
+    "address": "126, Saket Main Road, Delhi",
+    "lat": 28.65471,
+    "lng": 77.16064,
+    "fee": 800,
+    "rating": 4.8,
+    "reviewCount": 179,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Swati is a dermatologist with 31 years of experience, practising in Saket, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-19",
+    "name": "Dr. Suresh Verma",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "specialtyKey": "cardiologist",
+    "specialtyHi": "हृदय रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Cardiology)",
+    "experienceYears": 9,
+    "languages": [
+      "Punjabi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Dwarka",
+    "clinicName": "Wellness Medical Centre, Dwarka",
+    "address": "136, Dwarka Main Road, Delhi",
+    "lat": 28.65135,
+    "lng": 77.19691,
+    "fee": 1350,
+    "rating": 4.7,
+    "reviewCount": 605,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Suresh is a cardiologist with 9 years of experience, practising in Dwarka, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-20",
+    "name": "Dr. Ishita Gupta",
+    "gender": "female",
+    "specialty": "Orthopedic Surgeon",
+    "specialtyKey": "orthopedist",
+    "specialtyHi": "हड्डी रोग विशेषज्ञ",
+    "qualifications": "MBBS, D.Ortho",
+    "experienceYears": 29,
+    "languages": [
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Karol Bagh",
+    "clinicName": "Care Speciality Clinic, Karol Bagh",
+    "address": "185, Karol Bagh Main Road, Delhi",
+    "lat": 28.59062,
+    "lng": 77.19834,
+    "fee": 1200,
+    "rating": 3.8,
+    "reviewCount": 401,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 3,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Ishita is a orthopedic surgeon with 29 years of experience, practising in Karol Bagh, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-21",
+    "name": "Dr. Neha Kapoor",
+    "gender": "female",
+    "specialty": "ENT Specialist",
+    "specialtyKey": "ent",
+    "specialtyHi": "कान-नाक-गला विशेषज्ञ",
+    "qualifications": "MBBS, DLO",
+    "experienceYears": 15,
+    "languages": [
+      "Punjabi",
+      "English"
+    ],
+    "city": "Delhi",
+    "area": "Saket",
+    "clinicName": "Life Polyclinic, Saket",
+    "address": "5, Saket Main Road, Delhi",
+    "lat": 28.61054,
+    "lng": 77.21909,
+    "fee": 800,
+    "rating": 3.9,
+    "reviewCount": 927,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Neha is a ent specialist with 15 years of experience, practising in Saket, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-22",
+    "name": "Dr. Vidya Desai",
+    "gender": "female",
+    "specialty": "Ophthalmologist",
+    "specialtyKey": "ophthalmologist",
+    "specialtyHi": "नेत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, DOMS",
+    "experienceYears": 31,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Delhi",
+    "area": "Karol Bagh",
+    "clinicName": "Family Clinic, Karol Bagh",
+    "address": "132, Karol Bagh Main Road, Delhi",
+    "lat": 28.57753,
+    "lng": 77.16356,
+    "fee": 950,
+    "rating": 4,
+    "reviewCount": 97,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 3,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Vidya is a ophthalmologist with 31 years of experience, practising in Karol Bagh, Delhi. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-23",
+    "name": "Dr. Aditya Menon",
+    "gender": "male",
+    "specialty": "Psychiatrist",
+    "specialtyKey": "psychiatrist",
+    "specialtyHi": "मनोचिकित्सक",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "experienceYears": 26,
+    "languages": [
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Whitefield",
+    "clinicName": "Shree Polyclinic, Whitefield",
+    "address": "11, Whitefield Main Road, Bengaluru",
+    "lat": 13.01426,
+    "lng": 77.54797,
+    "fee": 1200,
+    "rating": 4.5,
+    "reviewCount": 207,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Aditya is a psychiatrist with 26 years of experience, practising in Whitefield, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-24",
+    "name": "Dr. Arjun Singh",
+    "gender": "male",
+    "specialty": "Dentist",
+    "specialtyKey": "dentist",
+    "specialtyHi": "दंत चिकित्सक",
+    "qualifications": "BDS, MDS",
+    "experienceYears": 15,
+    "languages": [
+      "Hindi",
+      "Kannada",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Indiranagar",
+    "clinicName": "Wellness Clinic, Indiranagar",
+    "address": "154, Indiranagar Main Road, Bengaluru",
+    "lat": 12.9581,
+    "lng": 77.60702,
+    "fee": 550,
+    "rating": 4.4,
+    "reviewCount": 891,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Arjun is a dentist with 15 years of experience, practising in Indiranagar, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-25",
+    "name": "Dr. Manoj Patel",
+    "gender": "male",
+    "specialty": "Neurologist",
+    "specialtyKey": "neurologist",
+    "specialtyHi": "तंत्रिका रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Neurology)",
+    "experienceYears": 19,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Jayanagar",
+    "clinicName": "Arogya Polyclinic, Jayanagar",
+    "address": "63, Jayanagar Main Road, Bengaluru",
+    "lat": 12.94141,
+    "lng": 77.55328,
+    "fee": 1700,
+    "rating": 4.5,
+    "reviewCount": 865,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Manoj is a neurologist with 19 years of experience, practising in Jayanagar, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-26",
+    "name": "Dr. Meera Choudhary",
+    "gender": "female",
+    "specialty": "Gastroenterologist",
+    "specialtyKey": "gastroenterologist",
+    "specialtyHi": "पेट रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Gastroenterology)",
+    "experienceYears": 20,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "clinicName": "Care Medical Centre, Koramangala",
+    "address": "193, Koramangala Main Road, Bengaluru",
+    "lat": 12.99317,
+    "lng": 77.64447,
+    "fee": 1050,
+    "rating": 4,
+    "reviewCount": 133,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Meera is a gastroenterologist with 20 years of experience, practising in Koramangala, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-27",
+    "name": "Dr. Divya Reddy",
+    "gender": "female",
+    "specialty": "Diabetologist",
+    "specialtyKey": "diabetologist",
+    "specialtyHi": "मधुमेह विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), Fellowship in Diabetology",
+    "experienceYears": 6,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "clinicName": "Care Clinic, Koramangala",
+    "address": "51, Koramangala Main Road, Bengaluru",
+    "lat": 12.98077,
+    "lng": 77.57371,
+    "fee": 550,
+    "rating": 4.4,
+    "reviewCount": 269,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": true,
+    "about": "Divya is a diabetologist with 6 years of experience, practising in Koramangala, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-28",
+    "name": "Dr. Ritu Mehta",
+    "gender": "female",
+    "specialty": "Urologist",
+    "specialtyKey": "urologist",
+    "specialtyHi": "मूत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "experienceYears": 11,
+    "languages": [
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "clinicName": "Wellness Medical Centre, Koramangala",
+    "address": "139, Koramangala Main Road, Bengaluru",
+    "lat": 12.98184,
+    "lng": 77.60355,
+    "fee": 1300,
+    "rating": 4.1,
+    "reviewCount": 382,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 3,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Ritu is a urologist with 11 years of experience, practising in Koramangala, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-29",
+    "name": "Dr. Kavita Singh",
+    "gender": "female",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS, MD (General Medicine)",
+    "experienceYears": 26,
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "city": "Bengaluru",
+    "area": "Indiranagar",
+    "clinicName": "Care Polyclinic, Indiranagar",
+    "address": "112, Indiranagar Main Road, Bengaluru",
+    "lat": 12.9878,
+    "lng": 77.62779,
+    "fee": 500,
+    "rating": 4.9,
+    "reviewCount": 117,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Kavita is a general physician with 26 years of experience, practising in Indiranagar, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-30",
+    "name": "Dr. Vidya Kapoor",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, DCH",
+    "experienceYears": 30,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "clinicName": "Life Medical Centre, Koramangala",
+    "address": "163, Koramangala Main Road, Bengaluru",
+    "lat": 12.95314,
+    "lng": 77.58025,
+    "fee": 700,
+    "rating": 4.4,
+    "reviewCount": 652,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Vidya is a pediatrician with 30 years of experience, practising in Koramangala, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-31",
+    "name": "Dr. Manoj Bhat",
+    "gender": "male",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Obs & Gyn)",
+    "experienceYears": 17,
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "Whitefield",
+    "clinicName": "Sanjeevani Medical Centre, Whitefield",
+    "address": "228, Whitefield Main Road, Bengaluru",
+    "lat": 12.96463,
+    "lng": 77.60674,
+    "fee": 700,
+    "rating": 4.6,
+    "reviewCount": 763,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": true,
+    "about": "Manoj is a gynecologist & obstetrician with 17 years of experience, practising in Whitefield, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-32",
+    "name": "Dr. Ramesh Choudhary",
+    "gender": "male",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, DDVL",
+    "experienceYears": 29,
+    "languages": [
+      "Hindi",
+      "Kannada",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "HSR Layout",
+    "clinicName": "City Clinic, HSR Layout",
+    "address": "92, HSR Layout Main Road, Bengaluru",
+    "lat": 12.93579,
+    "lng": 77.58588,
+    "fee": 1050,
+    "rating": 4.7,
+    "reviewCount": 600,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": false,
+    "featured": false,
+    "about": "Ramesh is a dermatologist with 29 years of experience, practising in HSR Layout, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-33",
+    "name": "Dr. Rahul Choudhary",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "specialtyKey": "cardiologist",
+    "specialtyHi": "हृदय रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Cardiology)",
+    "experienceYears": 15,
+    "languages": [
+      "Kannada",
+      "Telugu",
+      "English"
+    ],
+    "city": "Bengaluru",
+    "area": "HSR Layout",
+    "clinicName": "Life Polyclinic, HSR Layout",
+    "address": "142, HSR Layout Main Road, Bengaluru",
+    "lat": 12.97383,
+    "lng": 77.62256,
+    "fee": 1450,
+    "rating": 3.9,
+    "reviewCount": 501,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 3,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Rahul is a cardiologist with 15 years of experience, practising in HSR Layout, Bengaluru. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-34",
+    "name": "Dr. Gaurav Choudhary",
+    "gender": "male",
+    "specialty": "Orthopedic Surgeon",
+    "specialtyKey": "orthopedist",
+    "specialtyHi": "हड्डी रोग विशेषज्ञ",
+    "qualifications": "MBBS, D.Ortho",
+    "experienceYears": 8,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "clinicName": "Health Medical Centre, Secunderabad",
+    "address": "98, Secunderabad Main Road, Hyderabad",
+    "lat": 17.41391,
+    "lng": 78.45913,
+    "fee": 800,
+    "rating": 4.7,
+    "reviewCount": 684,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Gaurav is a orthopedic surgeon with 8 years of experience, practising in Secunderabad, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-35",
+    "name": "Dr. Ishita Pillai",
+    "gender": "female",
+    "specialty": "ENT Specialist",
+    "specialtyKey": "ent",
+    "specialtyHi": "कान-नाक-गला विशेषज्ञ",
+    "qualifications": "MBBS, MS (ENT)",
+    "experienceYears": 19,
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "clinicName": "Life Speciality Clinic, Secunderabad",
+    "address": "192, Secunderabad Main Road, Hyderabad",
+    "lat": 17.34202,
+    "lng": 78.53034,
+    "fee": 500,
+    "rating": 4.4,
+    "reviewCount": 175,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Ishita is a ent specialist with 19 years of experience, practising in Secunderabad, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-36",
+    "name": "Dr. Harish Chatterjee",
+    "gender": "male",
+    "specialty": "Ophthalmologist",
+    "specialtyKey": "ophthalmologist",
+    "specialtyHi": "नेत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Ophthalmology)",
+    "experienceYears": 23,
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "clinicName": "Sanjeevani Medical Centre, Secunderabad",
+    "address": "223, Secunderabad Main Road, Hyderabad",
+    "lat": 17.39541,
+    "lng": 78.45148,
+    "fee": 900,
+    "rating": 4.3,
+    "reviewCount": 135,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Harish is a ophthalmologist with 23 years of experience, practising in Secunderabad, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-37",
+    "name": "Dr. Neha Patel",
+    "gender": "female",
+    "specialty": "Psychiatrist",
+    "specialtyKey": "psychiatrist",
+    "specialtyHi": "मनोचिकित्सक",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "experienceYears": 13,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "clinicName": "Health Clinic, Gachibowli",
+    "address": "90, Gachibowli Main Road, Hyderabad",
+    "lat": 17.41149,
+    "lng": 78.52738,
+    "fee": 1100,
+    "rating": 4.1,
+    "reviewCount": 328,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Neha is a psychiatrist with 13 years of experience, practising in Gachibowli, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-38",
+    "name": "Dr. Aditya Kulkarni",
+    "gender": "male",
+    "specialty": "Dentist",
+    "specialtyKey": "dentist",
+    "specialtyHi": "दंत चिकित्सक",
+    "qualifications": "BDS, MDS",
+    "experienceYears": 29,
+    "languages": [
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Kukatpally",
+    "clinicName": "Sanjeevani Speciality Clinic, Kukatpally",
+    "address": "102, Kukatpally Main Road, Hyderabad",
+    "lat": 17.41504,
+    "lng": 78.48737,
+    "fee": 800,
+    "rating": 3.9,
+    "reviewCount": 189,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Aditya is a dentist with 29 years of experience, practising in Kukatpally, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-39",
+    "name": "Dr. Pranav Sharma",
+    "gender": "male",
+    "specialty": "Neurologist",
+    "specialtyKey": "neurologist",
+    "specialtyHi": "तंत्रिका रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Neurology)",
+    "experienceYears": 14,
+    "languages": [
+      "Hindi",
+      "Urdu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "clinicName": "Sanjeevani Speciality Clinic, Secunderabad",
+    "address": "52, Secunderabad Main Road, Hyderabad",
+    "lat": 17.35532,
+    "lng": 78.5043,
+    "fee": 1500,
+    "rating": 3.8,
+    "reviewCount": 913,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Pranav is a neurologist with 14 years of experience, practising in Secunderabad, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-40",
+    "name": "Dr. Ishita Verma",
+    "gender": "female",
+    "specialty": "Gastroenterologist",
+    "specialtyKey": "gastroenterologist",
+    "specialtyHi": "पेट रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Gastroenterology)",
+    "experienceYears": 17,
+    "languages": [
+      "Hindi",
+      "Urdu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "clinicName": "Shree Medical Centre, Banjara Hills",
+    "address": "185, Banjara Hills Main Road, Hyderabad",
+    "lat": 17.37179,
+    "lng": 78.44449,
+    "fee": 1550,
+    "rating": 4.1,
+    "reviewCount": 530,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Ishita is a gastroenterologist with 17 years of experience, practising in Banjara Hills, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-41",
+    "name": "Dr. Amit Chatterjee",
+    "gender": "male",
+    "specialty": "Diabetologist",
+    "specialtyKey": "diabetologist",
+    "specialtyHi": "मधुमेह विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), Fellowship in Diabetology",
+    "experienceYears": 21,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "clinicName": "Family Clinic, Gachibowli",
+    "address": "205, Gachibowli Main Road, Hyderabad",
+    "lat": 17.33937,
+    "lng": 78.47981,
+    "fee": 1000,
+    "rating": 4.4,
+    "reviewCount": 531,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": true,
+    "about": "Amit is a diabetologist with 21 years of experience, practising in Gachibowli, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-42",
+    "name": "Dr. Mohit Desai",
+    "gender": "male",
+    "specialty": "Urologist",
+    "specialtyKey": "urologist",
+    "specialtyHi": "मूत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "experienceYears": 7,
+    "languages": [
+      "Telugu",
+      "Urdu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "clinicName": "Life Medical Centre, Gachibowli",
+    "address": "43, Gachibowli Main Road, Hyderabad",
+    "lat": 17.33665,
+    "lng": 78.49888,
+    "fee": 1050,
+    "rating": 3.8,
+    "reviewCount": 419,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": true,
+    "about": "Mohit is a urologist with 7 years of experience, practising in Gachibowli, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-43",
+    "name": "Dr. Sneha Verma",
+    "gender": "female",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS",
+    "experienceYears": 16,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "clinicName": "Sanjeevani Polyclinic, Gachibowli",
+    "address": "142, Gachibowli Main Road, Hyderabad",
+    "lat": 17.35295,
+    "lng": 78.50072,
+    "fee": 550,
+    "rating": 4.1,
+    "reviewCount": 466,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Sneha is a general physician with 16 years of experience, practising in Gachibowli, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-44",
+    "name": "Dr. Mohit Bhat",
+    "gender": "male",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Pediatrics)",
+    "experienceYears": 24,
+    "languages": [
+      "Telugu",
+      "Urdu",
+      "English"
+    ],
+    "city": "Hyderabad",
+    "area": "Kukatpally",
+    "clinicName": "Sanjeevani Polyclinic, Kukatpally",
+    "address": "113, Kukatpally Main Road, Hyderabad",
+    "lat": 17.34567,
+    "lng": 78.44095,
+    "fee": 1100,
+    "rating": 3.8,
+    "reviewCount": 639,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Mohit is a pediatrician with 24 years of experience, practising in Kukatpally, Hyderabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-45",
+    "name": "Dr. Mohit Verma",
+    "gender": "male",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, DGO",
+    "experienceYears": 24,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "T. Nagar",
+    "clinicName": "Shree Speciality Clinic, T. Nagar",
+    "address": "103, T. Nagar Main Road, Chennai",
+    "lat": 13.06739,
+    "lng": 80.24834,
+    "fee": 650,
+    "rating": 4.9,
+    "reviewCount": 920,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Mohit is a gynecologist & obstetrician with 24 years of experience, practising in T. Nagar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-46",
+    "name": "Dr. Ananya Mukherjee",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, DDVL",
+    "experienceYears": 17,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Chennai",
+    "area": "Velachery",
+    "clinicName": "Shree Speciality Clinic, Velachery",
+    "address": "189, Velachery Main Road, Chennai",
+    "lat": 13.0553,
+    "lng": 80.23271,
+    "fee": 600,
+    "rating": 3.8,
+    "reviewCount": 821,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Ananya is a dermatologist with 17 years of experience, practising in Velachery, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-47",
+    "name": "Dr. Nikhil Pillai",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "specialtyKey": "cardiologist",
+    "specialtyHi": "हृदय रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), DNB (Cardiology)",
+    "experienceYears": 30,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "Velachery",
+    "clinicName": "Health Medical Centre, Velachery",
+    "address": "119, Velachery Main Road, Chennai",
+    "lat": 13.09859,
+    "lng": 80.31467,
+    "fee": 1750,
+    "rating": 4.2,
+    "reviewCount": 686,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 3,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Nikhil is a cardiologist with 30 years of experience, practising in Velachery, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-48",
+    "name": "Dr. Swati Kulkarni",
+    "gender": "female",
+    "specialty": "Orthopedic Surgeon",
+    "specialtyKey": "orthopedist",
+    "specialtyHi": "हड्डी रोग विशेषज्ञ",
+    "qualifications": "MBBS, D.Ortho",
+    "experienceYears": 8,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "T. Nagar",
+    "clinicName": "Prime Speciality Clinic, T. Nagar",
+    "address": "204, T. Nagar Main Road, Chennai",
+    "lat": 13.08374,
+    "lng": 80.27902,
+    "fee": 650,
+    "rating": 4.9,
+    "reviewCount": 785,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 5,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Swati is a orthopedic surgeon with 8 years of experience, practising in T. Nagar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-49",
+    "name": "Dr. Rahul Desai",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "specialtyKey": "ent",
+    "specialtyHi": "कान-नाक-गला विशेषज्ञ",
+    "qualifications": "MBBS, MS (ENT)",
+    "experienceYears": 15,
+    "languages": [
+      "Hindi",
+      "Tamil",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "Anna Nagar",
+    "clinicName": "Arogya Polyclinic, Anna Nagar",
+    "address": "40, Anna Nagar Main Road, Chennai",
+    "lat": 13.05014,
+    "lng": 80.22622,
+    "fee": 500,
+    "rating": 4.9,
+    "reviewCount": 937,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Rahul is a ent specialist with 15 years of experience, practising in Anna Nagar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-50",
+    "name": "Dr. Harish Chatterjee",
+    "gender": "male",
+    "specialty": "Ophthalmologist",
+    "specialtyKey": "ophthalmologist",
+    "specialtyHi": "नेत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, DOMS",
+    "experienceYears": 8,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "Adyar",
+    "clinicName": "Sanjeevani Clinic, Adyar",
+    "address": "63, Adyar Main Road, Chennai",
+    "lat": 13.10024,
+    "lng": 80.29802,
+    "fee": 850,
+    "rating": 4,
+    "reviewCount": 106,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": false,
+    "featured": true,
+    "about": "Harish is a ophthalmologist with 8 years of experience, practising in Adyar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-51",
+    "name": "Dr. Ananya Kapoor",
+    "gender": "female",
+    "specialty": "Psychiatrist",
+    "specialtyKey": "psychiatrist",
+    "specialtyHi": "मनोचिकित्सक",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "experienceYears": 27,
+    "languages": [
+      "Hindi",
+      "Tamil",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "Velachery",
+    "clinicName": "Life Polyclinic, Velachery",
+    "address": "102, Velachery Main Road, Chennai",
+    "lat": 13.07517,
+    "lng": 80.28635,
+    "fee": 1700,
+    "rating": 4.3,
+    "reviewCount": 730,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Ananya is a psychiatrist with 27 years of experience, practising in Velachery, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-52",
+    "name": "Dr. Rohit Choudhary",
+    "gender": "male",
+    "specialty": "Dentist",
+    "specialtyKey": "dentist",
+    "specialtyHi": "दंत चिकित्सक",
+    "qualifications": "BDS",
+    "experienceYears": 6,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "T. Nagar",
+    "clinicName": "Prime Clinic, T. Nagar",
+    "address": "169, T. Nagar Main Road, Chennai",
+    "lat": 13.10811,
+    "lng": 80.2792,
+    "fee": 500,
+    "rating": 4.4,
+    "reviewCount": 932,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Rohit is a dentist with 6 years of experience, practising in T. Nagar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-53",
+    "name": "Dr. Anand Iyer",
+    "gender": "male",
+    "specialty": "Neurologist",
+    "specialtyKey": "neurologist",
+    "specialtyHi": "तंत्रिका रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Neurology)",
+    "experienceYears": 28,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "city": "Chennai",
+    "area": "Adyar",
+    "clinicName": "Health Medical Centre, Adyar",
+    "address": "155, Adyar Main Road, Chennai",
+    "lat": 13.0784,
+    "lng": 80.23475,
+    "fee": 2200,
+    "rating": 4.5,
+    "reviewCount": 732,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Anand is a neurologist with 28 years of experience, practising in Adyar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-54",
+    "name": "Dr. Rohit Menon",
+    "gender": "male",
+    "specialty": "Gastroenterologist",
+    "specialtyKey": "gastroenterologist",
+    "specialtyHi": "पेट रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Gastroenterology)",
+    "experienceYears": 23,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "city": "Chennai",
+    "area": "Anna Nagar",
+    "clinicName": "Sanjeevani Clinic, Anna Nagar",
+    "address": "77, Anna Nagar Main Road, Chennai",
+    "lat": 13.12321,
+    "lng": 80.22853,
+    "fee": 1450,
+    "rating": 3.9,
+    "reviewCount": 857,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 3,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Rohit is a gastroenterologist with 23 years of experience, practising in Anna Nagar, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-55",
+    "name": "Dr. Mohit Bhat",
+    "gender": "male",
+    "specialty": "Diabetologist",
+    "specialtyKey": "diabetologist",
+    "specialtyHi": "मधुमेह विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), Fellowship in Diabetology",
+    "experienceYears": 7,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Chennai",
+    "area": "Velachery",
+    "clinicName": "Family Speciality Clinic, Velachery",
+    "address": "105, Velachery Main Road, Chennai",
+    "lat": 13.09792,
+    "lng": 80.23252,
+    "fee": 600,
+    "rating": 4.2,
+    "reviewCount": 322,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Mohit is a diabetologist with 7 years of experience, practising in Velachery, Chennai. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-56",
+    "name": "Dr. Shalini Agarwal",
+    "gender": "female",
+    "specialty": "Urologist",
+    "specialtyKey": "urologist",
+    "specialtyHi": "मूत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "experienceYears": 16,
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "clinicName": "Prime Medical Centre, Ballygunge",
+    "address": "61, Ballygunge Main Road, Kolkata",
+    "lat": 22.56927,
+    "lng": 88.33034,
+    "fee": 1450,
+    "rating": 3.9,
+    "reviewCount": 653,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": true,
+    "about": "Shalini is a urologist with 16 years of experience, practising in Ballygunge, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-57",
+    "name": "Dr. Sarita Krishnan",
+    "gender": "female",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS, MD (General Medicine)",
+    "experienceYears": 15,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Salt Lake",
+    "clinicName": "Shree Clinic, Salt Lake",
+    "address": "73, Salt Lake Main Road, Kolkata",
+    "lat": 22.58508,
+    "lng": 88.39883,
+    "fee": 750,
+    "rating": 3.9,
+    "reviewCount": 542,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Sarita is a general physician with 15 years of experience, practising in Salt Lake, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-58",
+    "name": "Dr. Lakshmi Patel",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Pediatrics)",
+    "experienceYears": 14,
+    "languages": [
+      "English",
+      "Bengali"
+    ],
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "clinicName": "City Polyclinic, Ballygunge",
+    "address": "176, Ballygunge Main Road, Kolkata",
+    "lat": 22.59164,
+    "lng": 88.32138,
+    "fee": 950,
+    "rating": 4.8,
+    "reviewCount": 509,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 5,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Lakshmi is a pediatrician with 14 years of experience, practising in Ballygunge, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-59",
+    "name": "Dr. Gaurav Singh",
+    "gender": "male",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Obs & Gyn)",
+    "experienceYears": 15,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Howrah",
+    "clinicName": "Sanjeevani Polyclinic, Howrah",
+    "address": "10, Howrah Main Road, Kolkata",
+    "lat": 22.57614,
+    "lng": 88.36373,
+    "fee": 1000,
+    "rating": 4.1,
+    "reviewCount": 448,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Gaurav is a gynecologist & obstetrician with 15 years of experience, practising in Howrah, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-60",
+    "name": "Dr. Suresh Mehta",
+    "gender": "male",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Dermatology)",
+    "experienceYears": 28,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "clinicName": "Health Medical Centre, Ballygunge",
+    "address": "11, Ballygunge Main Road, Kolkata",
+    "lat": 22.53277,
+    "lng": 88.3147,
+    "fee": 1150,
+    "rating": 4.4,
+    "reviewCount": 116,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Suresh is a dermatologist with 28 years of experience, practising in Ballygunge, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-61",
+    "name": "Dr. Arjun Kulkarni",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "specialtyKey": "cardiologist",
+    "specialtyHi": "हृदय रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), DNB (Cardiology)",
+    "experienceYears": 21,
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Howrah",
+    "clinicName": "Prime Medical Centre, Howrah",
+    "address": "105, Howrah Main Road, Kolkata",
+    "lat": 22.54218,
+    "lng": 88.34488,
+    "fee": 1150,
+    "rating": 4.5,
+    "reviewCount": 537,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Arjun is a cardiologist with 21 years of experience, practising in Howrah, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-62",
+    "name": "Dr. Ramesh Desai",
+    "gender": "male",
+    "specialty": "Orthopedic Surgeon",
+    "specialtyKey": "orthopedist",
+    "specialtyHi": "हड्डी रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Orthopedics)",
+    "experienceYears": 32,
+    "languages": [
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Howrah",
+    "clinicName": "Family Polyclinic, Howrah",
+    "address": "194, Howrah Main Road, Kolkata",
+    "lat": 22.53007,
+    "lng": 88.34049,
+    "fee": 1450,
+    "rating": 3.8,
+    "reviewCount": 753,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Ramesh is a orthopedic surgeon with 32 years of experience, practising in Howrah, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-63",
+    "name": "Dr. Mohit Verma",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "specialtyKey": "ent",
+    "specialtyHi": "कान-नाक-गला विशेषज्ञ",
+    "qualifications": "MBBS, DLO",
+    "experienceYears": 26,
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Howrah",
+    "clinicName": "Shree Speciality Clinic, Howrah",
+    "address": "76, Howrah Main Road, Kolkata",
+    "lat": 22.59785,
+    "lng": 88.34718,
+    "fee": 600,
+    "rating": 4.2,
+    "reviewCount": 638,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 3,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Mohit is a ent specialist with 26 years of experience, practising in Howrah, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-64",
+    "name": "Dr. Pranav Mehta",
+    "gender": "male",
+    "specialty": "Ophthalmologist",
+    "specialtyKey": "ophthalmologist",
+    "specialtyHi": "नेत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, DOMS",
+    "experienceYears": 12,
+    "languages": [
+      "English",
+      "Bengali"
+    ],
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "clinicName": "City Polyclinic, Ballygunge",
+    "address": "73, Ballygunge Main Road, Kolkata",
+    "lat": 22.5538,
+    "lng": 88.31417,
+    "fee": 800,
+    "rating": 3.8,
+    "reviewCount": 929,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": true,
+    "about": "Pranav is a ophthalmologist with 12 years of experience, practising in Ballygunge, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-65",
+    "name": "Dr. Ananya Verma",
+    "gender": "female",
+    "specialty": "Psychiatrist",
+    "specialtyKey": "psychiatrist",
+    "specialtyHi": "मनोचिकित्सक",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "experienceYears": 25,
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Park Street",
+    "clinicName": "Health Speciality Clinic, Park Street",
+    "address": "185, Park Street Main Road, Kolkata",
+    "lat": 22.55055,
+    "lng": 88.36069,
+    "fee": 1450,
+    "rating": 4.5,
+    "reviewCount": 933,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Ananya is a psychiatrist with 25 years of experience, practising in Park Street, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-66",
+    "name": "Dr. Amit Banerjee",
+    "gender": "male",
+    "specialty": "Dentist",
+    "specialtyKey": "dentist",
+    "specialtyHi": "दंत चिकित्सक",
+    "qualifications": "BDS, MDS",
+    "experienceYears": 20,
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "city": "Kolkata",
+    "area": "Salt Lake",
+    "clinicName": "Arogya Speciality Clinic, Salt Lake",
+    "address": "61, Salt Lake Main Road, Kolkata",
+    "lat": 22.54451,
+    "lng": 88.33893,
+    "fee": 700,
+    "rating": 4,
+    "reviewCount": 465,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Amit is a dentist with 20 years of experience, practising in Salt Lake, Kolkata. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-67",
+    "name": "Dr. Sneha Menon",
+    "gender": "female",
+    "specialty": "Neurologist",
+    "specialtyKey": "neurologist",
+    "specialtyHi": "तंत्रिका रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Neurology)",
+    "experienceYears": 22,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "clinicName": "Health Polyclinic, Viman Nagar",
+    "address": "87, Viman Nagar Main Road, Pune",
+    "lat": 18.56487,
+    "lng": 73.83123,
+    "fee": 1600,
+    "rating": 4.5,
+    "reviewCount": 821,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 5,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": true,
+    "about": "Sneha is a neurologist with 22 years of experience, practising in Viman Nagar, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-68",
+    "name": "Dr. Kavita Nair",
+    "gender": "female",
+    "specialty": "Gastroenterologist",
+    "specialtyKey": "gastroenterologist",
+    "specialtyHi": "पेट रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Gastroenterology)",
+    "experienceYears": 28,
+    "languages": [
+      "English",
+      "Marathi"
+    ],
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "clinicName": "Care Clinic, Hinjewadi",
+    "address": "124, Hinjewadi Main Road, Pune",
+    "lat": 18.48682,
+    "lng": 73.8728,
+    "fee": 1050,
+    "rating": 4.5,
+    "reviewCount": 827,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": false,
+    "featured": true,
+    "about": "Kavita is a gastroenterologist with 28 years of experience, practising in Hinjewadi, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-69",
+    "name": "Dr. Sarita Rao",
+    "gender": "female",
+    "specialty": "Diabetologist",
+    "specialtyKey": "diabetologist",
+    "specialtyHi": "मधुमेह विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), Fellowship in Diabetology",
+    "experienceYears": 24,
+    "languages": [
+      "Marathi",
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Koregaon Park",
+    "clinicName": "Family Polyclinic, Koregaon Park",
+    "address": "58, Koregaon Park Main Road, Pune",
+    "lat": 18.54497,
+    "lng": 73.90628,
+    "fee": 550,
+    "rating": 4.6,
+    "reviewCount": 31,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Sarita is a diabetologist with 24 years of experience, practising in Koregaon Park, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-70",
+    "name": "Dr. Pooja Mukherjee",
+    "gender": "female",
+    "specialty": "Urologist",
+    "specialtyKey": "urologist",
+    "specialtyHi": "मूत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "experienceYears": 23,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Koregaon Park",
+    "clinicName": "Care Medical Centre, Koregaon Park",
+    "address": "117, Koregaon Park Main Road, Pune",
+    "lat": 18.53634,
+    "lng": 73.86406,
+    "fee": 1300,
+    "rating": 4,
+    "reviewCount": 728,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Pooja is a urologist with 23 years of experience, practising in Koregaon Park, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-71",
+    "name": "Dr. Neha Mehta",
+    "gender": "female",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS",
+    "experienceYears": 7,
+    "languages": [
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Kothrud",
+    "clinicName": "Care Speciality Clinic, Kothrud",
+    "address": "49, Kothrud Main Road, Pune",
+    "lat": 18.5543,
+    "lng": 73.82839,
+    "fee": 550,
+    "rating": 4.5,
+    "reviewCount": 858,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Neha is a general physician with 7 years of experience, practising in Kothrud, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-72",
+    "name": "Dr. Neha Mukherjee",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, DCH",
+    "experienceYears": 8,
+    "languages": [
+      "English",
+      "Marathi"
+    ],
+    "city": "Pune",
+    "area": "Kothrud",
+    "clinicName": "Arogya Polyclinic, Kothrud",
+    "address": "5, Kothrud Main Road, Pune",
+    "lat": 18.51183,
+    "lng": 73.87154,
+    "fee": 650,
+    "rating": 4.3,
+    "reviewCount": 478,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": true,
+    "about": "Neha is a pediatrician with 8 years of experience, practising in Kothrud, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-73",
+    "name": "Dr. Sarita Choudhary",
+    "gender": "female",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, DGO",
+    "experienceYears": 4,
+    "languages": [
+      "Marathi",
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Koregaon Park",
+    "clinicName": "Arogya Medical Centre, Koregaon Park",
+    "address": "46, Koregaon Park Main Road, Pune",
+    "lat": 18.54696,
+    "lng": 73.89796,
+    "fee": 550,
+    "rating": 4.5,
+    "reviewCount": 482,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Sarita is a gynecologist & obstetrician with 4 years of experience, practising in Koregaon Park, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-74",
+    "name": "Dr. Anjali Pillai",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Dermatology)",
+    "experienceYears": 16,
+    "languages": [
+      "English",
+      "Marathi"
+    ],
+    "city": "Pune",
+    "area": "Kothrud",
+    "clinicName": "Health Clinic, Kothrud",
+    "address": "56, Kothrud Main Road, Pune",
+    "lat": 18.56996,
+    "lng": 73.89953,
+    "fee": 950,
+    "rating": 4.2,
+    "reviewCount": 240,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Anjali is a dermatologist with 16 years of experience, practising in Kothrud, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-75",
+    "name": "Dr. Anjali Krishnan",
+    "gender": "female",
+    "specialty": "Cardiologist",
+    "specialtyKey": "cardiologist",
+    "specialtyHi": "हृदय रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Cardiology)",
+    "experienceYears": 17,
+    "languages": [
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "clinicName": "Wellness Speciality Clinic, Viman Nagar",
+    "address": "66, Viman Nagar Main Road, Pune",
+    "lat": 18.48966,
+    "lng": 73.83839,
+    "fee": 1000,
+    "rating": 4.3,
+    "reviewCount": 714,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Anjali is a cardiologist with 17 years of experience, practising in Viman Nagar, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-76",
+    "name": "Dr. Sunita Joshi",
+    "gender": "female",
+    "specialty": "Orthopedic Surgeon",
+    "specialtyKey": "orthopedist",
+    "specialtyHi": "हड्डी रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Orthopedics)",
+    "experienceYears": 19,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "clinicName": "Prime Polyclinic, Hinjewadi",
+    "address": "34, Hinjewadi Main Road, Pune",
+    "lat": 18.50007,
+    "lng": 73.90073,
+    "fee": 1100,
+    "rating": 4.7,
+    "reviewCount": 236,
+    "reviews": [
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "11:00 AM – 2:00 PM, 6:00 PM – 9:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Sunita is a orthopedic surgeon with 19 years of experience, practising in Hinjewadi, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-77",
+    "name": "Dr. Rohit Agarwal",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "specialtyKey": "ent",
+    "specialtyHi": "कान-नाक-गला विशेषज्ञ",
+    "qualifications": "MBBS, MS (ENT)",
+    "experienceYears": 32,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "clinicName": "Shree Polyclinic, Hinjewadi",
+    "address": "27, Hinjewadi Main Road, Pune",
+    "lat": 18.55261,
+    "lng": 73.88721,
+    "fee": 500,
+    "rating": 4,
+    "reviewCount": 803,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Rohit is a ent specialist with 32 years of experience, practising in Hinjewadi, Pune. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-78",
+    "name": "Dr. Rohit Shah",
+    "gender": "male",
+    "specialty": "Ophthalmologist",
+    "specialtyKey": "ophthalmologist",
+    "specialtyHi": "नेत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, DOMS",
+    "experienceYears": 4,
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "clinicName": "Arogya Medical Centre, Satellite",
+    "address": "70, Satellite Main Road, Ahmedabad",
+    "lat": 23.01334,
+    "lng": 72.60311,
+    "fee": 450,
+    "rating": 3.7,
+    "reviewCount": 437,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Rohit is a ophthalmologist with 4 years of experience, practising in Satellite, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-79",
+    "name": "Dr. Srinivas Rao",
+    "gender": "male",
+    "specialty": "Psychiatrist",
+    "specialtyKey": "psychiatrist",
+    "specialtyHi": "मनोचिकित्सक",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "experienceYears": 32,
+    "languages": [
+      "Gujarati",
+      "Hindi",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "clinicName": "Prime Polyclinic, Maninagar",
+    "address": "137, Maninagar Main Road, Ahmedabad",
+    "lat": 23.0353,
+    "lng": 72.53625,
+    "fee": 1050,
+    "rating": 4.4,
+    "reviewCount": 698,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jan 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 11:30 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Srinivas is a psychiatrist with 32 years of experience, practising in Maninagar, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-80",
+    "name": "Dr. Mohit Mehta",
+    "gender": "male",
+    "specialty": "Dentist",
+    "specialtyKey": "dentist",
+    "specialtyHi": "दंत चिकित्सक",
+    "qualifications": "BDS, MDS",
+    "experienceYears": 6,
+    "languages": [
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "clinicName": "Shree Clinic, Maninagar",
+    "address": "149, Maninagar Main Road, Ahmedabad",
+    "lat": 23.04801,
+    "lng": 72.53876,
+    "fee": 350,
+    "rating": 4.8,
+    "reviewCount": 102,
+    "reviews": [
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": true,
+    "about": "Mohit is a dentist with 6 years of experience, practising in Maninagar, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-81",
+    "name": "Dr. Nandini Kapoor",
+    "gender": "female",
+    "specialty": "Neurologist",
+    "specialtyKey": "neurologist",
+    "specialtyHi": "तंत्रिका रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Neurology)",
+    "experienceYears": 20,
+    "languages": [
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "clinicName": "Family Clinic, Satellite",
+    "address": "115, Satellite Main Road, Ahmedabad",
+    "lat": 23.07174,
+    "lng": 72.62133,
+    "fee": 1400,
+    "rating": 4.9,
+    "reviewCount": 908,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 5,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "May 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": false,
+    "nextSlot": "Today 6:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Nandini is a neurologist with 20 years of experience, practising in Satellite, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-82",
+    "name": "Dr. Rajesh Nair",
+    "gender": "male",
+    "specialty": "Gastroenterologist",
+    "specialtyKey": "gastroenterologist",
+    "specialtyHi": "पेट रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD, DM (Gastroenterology)",
+    "experienceYears": 9,
+    "languages": [
+      "Gujarati",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Bopal",
+    "clinicName": "Sanjeevani Medical Centre, Bopal",
+    "address": "24, Bopal Main Road, Ahmedabad",
+    "lat": 23.05234,
+    "lng": 72.54215,
+    "fee": 1100,
+    "rating": 4,
+    "reviewCount": 487,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Sat",
+      "slots": "10:00 AM – 1:00 PM, 5:00 PM – 8:30 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Rajesh is a gastroenterologist with 9 years of experience, practising in Bopal, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-83",
+    "name": "Dr. Meera Kulkarni",
+    "gender": "female",
+    "specialty": "Diabetologist",
+    "specialtyKey": "diabetologist",
+    "specialtyHi": "मधुमेह विशेषज्ञ",
+    "qualifications": "MBBS, MD (Medicine), Fellowship in Diabetology",
+    "experienceYears": 28,
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "clinicName": "Sanjeevani Speciality Clinic, Maninagar",
+    "address": "181, Maninagar Main Road, Ahmedabad",
+    "lat": 23.0285,
+    "lng": 72.60509,
+    "fee": 650,
+    "rating": 4.8,
+    "reviewCount": 271,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Apr 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Meera is a diabetologist with 28 years of experience, practising in Maninagar, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-84",
+    "name": "Dr. Ramesh Joshi",
+    "gender": "male",
+    "specialty": "Urologist",
+    "specialtyKey": "urologist",
+    "specialtyHi": "मूत्र रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "experienceYears": 6,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "clinicName": "Wellness Speciality Clinic, Maninagar",
+    "address": "8, Maninagar Main Road, Ahmedabad",
+    "lat": 23.03646,
+    "lng": 72.57753,
+    "fee": 800,
+    "rating": 4.1,
+    "reviewCount": 732,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 12:30 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Ramesh is a urologist with 6 years of experience, practising in Maninagar, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-85",
+    "name": "Dr. Neha Choudhary",
+    "gender": "female",
+    "specialty": "General Physician",
+    "specialtyKey": "general-physician",
+    "specialtyHi": "सामान्य चिकित्सक",
+    "qualifications": "MBBS, MD (General Medicine)",
+    "experienceYears": 16,
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "clinicName": "Health Medical Centre, Satellite",
+    "address": "15, Satellite Main Road, Ahmedabad",
+    "lat": 23.00871,
+    "lng": 72.57562,
+    "fee": 450,
+    "rating": 3.8,
+    "reviewCount": 610,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Tomorrow 10:00 AM",
+    "verified": true,
+    "featured": false,
+    "about": "Neha is a general physician with 16 years of experience, practising in Satellite, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-86",
+    "name": "Dr. Manoj Kapoor",
+    "gender": "male",
+    "specialty": "Pediatrician",
+    "specialtyKey": "pediatrician",
+    "specialtyHi": "बाल रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Pediatrics)",
+    "experienceYears": 28,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "city": "Ahmedabad",
+    "area": "Navrangpura",
+    "clinicName": "Health Clinic, Navrangpura",
+    "address": "95, Navrangpura Main Road, Ahmedabad",
+    "lat": 23.01237,
+    "lng": 72.59031,
+    "fee": 850,
+    "rating": 4.9,
+    "reviewCount": 591,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jun 2026"
+      }
+    ],
+    "timings": {
+      "days": "Mon – Fri",
+      "slots": "9:30 AM – 1:30 PM, 4:00 PM – 7:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 6:30 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Manoj is a pediatrician with 28 years of experience, practising in Navrangpura, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-87",
+    "name": "Dr. Shalini Kapoor",
+    "gender": "female",
+    "specialty": "Gynecologist & Obstetrician",
+    "specialtyKey": "gynecologist",
+    "specialtyHi": "स्त्री रोग विशेषज्ञ",
+    "qualifications": "MBBS, MS (Obs & Gyn)",
+    "experienceYears": 14,
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "clinicName": "Wellness Medical Centre, Maninagar",
+    "address": "203, Maninagar Main Road, Ahmedabad",
+    "lat": 23.05752,
+    "lng": 72.56228,
+    "fee": 650,
+    "rating": 4.8,
+    "reviewCount": 205,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Mar 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": true,
+    "featured": false,
+    "about": "Shalini is a gynecologist & obstetrician with 14 years of experience, practising in Maninagar, Ahmedabad. Known for clear communication and evidence-based care."
+  },
+  {
+    "id": "doc-88",
+    "name": "Dr. Ritu Chatterjee",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "specialtyKey": "dermatologist",
+    "specialtyHi": "त्वचा रोग विशेषज्ञ",
+    "qualifications": "MBBS, MD (Dermatology)",
+    "experienceYears": 21,
+    "languages": [
+      "Gujarati",
+      "English"
+    ],
+    "city": "Ahmedabad",
+    "area": "Navrangpura",
+    "clinicName": "Family Clinic, Navrangpura",
+    "address": "75, Navrangpura Main Road, Ahmedabad",
+    "lat": 23.03345,
+    "lng": 72.57261,
+    "fee": 850,
+    "rating": 4.8,
+    "reviewCount": 742,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Feb 2026"
+      }
+    ],
+    "timings": {
+      "days": "Tue – Sun",
+      "slots": "9:00 AM – 12:30 PM, 5:30 PM – 8:00 PM"
+    },
+    "availableToday": true,
+    "nextSlot": "Today 5:00 PM",
+    "verified": false,
+    "featured": false,
+    "about": "Ritu is a dermatologist with 21 years of experience, practising in Navrangpura, Ahmedabad. Known for clear communication and evidence-based care."
+  }
+]

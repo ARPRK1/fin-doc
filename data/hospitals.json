@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "hos-1",
+    "name": "Medicare Hospital, Powai",
+    "type": "Multi-speciality Hospital",
+    "city": "Mumbai",
+    "area": "Powai",
+    "address": "50, Powai, Mumbai",
+    "lat": 19.03184,
+    "lng": 72.84357,
+    "beds": 482,
+    "specialties": [
+      "Urologist",
+      "Orthopedic Surgeon",
+      "Pediatrician",
+      "Dermatologist",
+      "Cardiologist",
+      "Gynecologist & Obstetrician"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 95367 92160",
+    "rating": 4.6,
+    "reviewCount": 1062,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 5,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jun 2026"
+      }
+    ],
+    "facilities": [
+      "24×7 Emergency",
+      "Cashless Insurance",
+      "Pharmacy",
+      "Ambulance",
+      "ICU",
+      "Operation Theatres"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      350,
+      900
+    ]
+  },
+  {
+    "id": "hos-2",
+    "name": "Kaveri Hospital, Andheri West",
+    "type": "Super-speciality Hospital",
+    "city": "Mumbai",
+    "area": "Andheri West",
+    "address": "55, Andheri West, Mumbai",
+    "lat": 19.11262,
+    "lng": 72.85818,
+    "beds": 495,
+    "specialties": [
+      "General Physician",
+      "Ophthalmologist",
+      "Gynecologist & Obstetrician",
+      "Dermatologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 99922 94398",
+    "rating": 4.1,
+    "reviewCount": 1266,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Mar 2026"
+      }
+    ],
+    "facilities": [
+      "Diagnostics Lab",
+      "Physiotherapy",
+      "Ambulance",
+      "24×7 Emergency",
+      "ICU",
+      "Blood Bank"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      400,
+      900
+    ]
+  },
+  {
+    "id": "hos-3",
+    "name": "Jeevan Clinic, Borivali",
+    "type": "Community Clinic",
+    "city": "Mumbai",
+    "area": "Borivali",
+    "address": "108, Borivali, Mumbai",
+    "lat": 19.06804,
+    "lng": 72.92194,
+    "beds": 0,
+    "specialties": [
+      "Diabetologist",
+      "ENT Specialist",
+      "Dentist",
+      "General Physician",
+      "Dermatologist"
+    ],
+    "emergency24x7": false,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 78367 15580",
+    "rating": 3.9,
+    "reviewCount": 333,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      }
+    ],
+    "facilities": [
+      "Operation Theatres",
+      "Diagnostics Lab",
+      "Pharmacy",
+      "Cashless Insurance"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      350,
+      900
+    ]
+  },
+  {
+    "id": "hos-4",
+    "name": "Sparsh Hospital, Saket",
+    "type": "Maternity & Women's Hospital",
+    "city": "Delhi",
+    "area": "Saket",
+    "address": "94, Saket, Delhi",
+    "lat": 28.5945,
+    "lng": 77.19599,
+    "beds": 78,
+    "specialties": [
+      "Neurologist",
+      "Psychiatrist",
+      "Pediatrician",
+      "General Physician",
+      "Ophthalmologist",
+      "Dentist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 74547 54528",
+    "rating": 3.9,
+    "reviewCount": 1549,
+    "reviews": [
+      {
+        "author": "Amit T.",
+        "rating": 3,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Divya R.",
+        "rating": 3,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      }
+    ],
+    "facilities": [
+      "ICU",
+      "Cashless Insurance",
+      "Diagnostics Lab",
+      "24×7 Emergency",
+      "Daycare Surgery"
+    ],
+    "verified": true,
+    "featured": true,
+    "opdFeeRange": [
+      350,
+      1100
+    ]
+  },
+  {
+    "id": "hos-5",
+    "name": "Jeevan Hospital, Saket",
+    "type": "Maternity & Women's Hospital",
+    "city": "Delhi",
+    "area": "Saket",
+    "address": "156, Saket, Delhi",
+    "lat": 28.57842,
+    "lng": 77.2524,
+    "beds": 74,
+    "specialties": [
+      "Dentist",
+      "Gastroenterologist",
+      "Ophthalmologist",
+      "Cardiologist",
+      "Pediatrician",
+      "Diabetologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 91784 84290",
+    "rating": 4.4,
+    "reviewCount": 600,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Feb 2026"
+      }
+    ],
+    "facilities": [
+      "Pharmacy",
+      "Diagnostics Lab",
+      "Blood Bank",
+      "Cashless Insurance",
+      "24×7 Emergency"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      400,
+      1150
+    ]
+  },
+  {
+    "id": "hos-6",
+    "name": "Medicare Hospital, Dwarka",
+    "type": "Super-speciality Hospital",
+    "city": "Delhi",
+    "area": "Dwarka",
+    "address": "18, Dwarka, Delhi",
+    "lat": 28.62835,
+    "lng": 77.24384,
+    "beds": 782,
+    "specialties": [
+      "General Physician",
+      "Dentist",
+      "Gastroenterologist",
+      "Ophthalmologist",
+      "Diabetologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 90062 35651",
+    "rating": 4.1,
+    "reviewCount": 774,
+    "reviews": [
+      {
+        "author": "Sneha K.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jan 2026"
+      }
+    ],
+    "facilities": [
+      "Cashless Insurance",
+      "ICU",
+      "Daycare Surgery",
+      "Blood Bank"
+    ],
+    "verified": false,
+    "featured": true,
+    "opdFeeRange": [
+      450,
+      700
+    ]
+  },
+  {
+    "id": "hos-7",
+    "name": "Lotus Hospital, Whitefield",
+    "type": "Maternity & Women's Hospital",
+    "city": "Bengaluru",
+    "area": "Whitefield",
+    "address": "146, Whitefield, Bengaluru",
+    "lat": 13.00451,
+    "lng": 77.61739,
+    "beds": 70,
+    "specialties": [
+      "Ophthalmologist",
+      "Diabetologist",
+      "Gastroenterologist",
+      "Neurologist",
+      "Cardiologist",
+      "Urologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 73633 49995",
+    "rating": 4.3,
+    "reviewCount": 1841,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "Cashless Insurance",
+      "Physiotherapy",
+      "Blood Bank",
+      "Operation Theatres",
+      "ICU"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      500,
+      850
+    ]
+  },
+  {
+    "id": "hos-8",
+    "name": "Global Hospital, Jayanagar",
+    "type": "Children's Hospital",
+    "city": "Bengaluru",
+    "area": "Jayanagar",
+    "address": "51, Jayanagar, Bengaluru",
+    "lat": 12.99361,
+    "lng": 77.62465,
+    "beds": 71,
+    "specialties": [
+      "Pediatrician",
+      "General Physician",
+      "Diabetologist",
+      "Gynecologist & Obstetrician",
+      "Neurologist"
+    ],
+    "emergency24x7": false,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 86462 89849",
+    "rating": 4.1,
+    "reviewCount": 2360,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Mar 2026"
+      }
+    ],
+    "facilities": [
+      "Pharmacy",
+      "Physiotherapy",
+      "Operation Theatres",
+      "Diagnostics Lab",
+      "Blood Bank"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      400,
+      1150
+    ]
+  },
+  {
+    "id": "hos-9",
+    "name": "Sahyadri Hospital, Indiranagar",
+    "type": "Multi-speciality Hospital",
+    "city": "Bengaluru",
+    "area": "Indiranagar",
+    "address": "4, Indiranagar, Bengaluru",
+    "lat": 12.95693,
+    "lng": 77.64047,
+    "beds": 591,
+    "specialties": [
+      "Pediatrician",
+      "General Physician",
+      "Neurologist",
+      "Diabetologist",
+      "Dermatologist",
+      "ENT Specialist"
+    ],
+    "emergency24x7": false,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 72280 47133",
+    "rating": 4.4,
+    "reviewCount": 390,
+    "reviews": [
+      {
+        "author": "Divya R.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 5,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "May 2026"
+      }
+    ],
+    "facilities": [
+      "Operation Theatres",
+      "Ambulance",
+      "Daycare Surgery",
+      "Physiotherapy",
+      "Cashless Insurance",
+      "Pharmacy"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      450,
+      850
+    ]
+  },
+  {
+    "id": "hos-10",
+    "name": "Sahyadri Hospital, Secunderabad",
+    "type": "Maternity & Women's Hospital",
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "address": "67, Secunderabad, Hyderabad",
+    "lat": 17.36369,
+    "lng": 78.45511,
+    "beds": 150,
+    "specialties": [
+      "Gynecologist & Obstetrician",
+      "Neurologist",
+      "Ophthalmologist",
+      "Dentist",
+      "ENT Specialist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 81965 13079",
+    "rating": 4.1,
+    "reviewCount": 2064,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Mar 2026"
+      }
+    ],
+    "facilities": [
+      "Ambulance",
+      "ICU",
+      "Daycare Surgery",
+      "Operation Theatres",
+      "24×7 Emergency",
+      "Pharmacy"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      500,
+      1000
+    ]
+  },
+  {
+    "id": "hos-11",
+    "name": "Sahyadri Hospital, Secunderabad",
+    "type": "Multi-speciality Hospital",
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "address": "115, Secunderabad, Hyderabad",
+    "lat": 17.43264,
+    "lng": 78.52554,
+    "beds": 361,
+    "specialties": [
+      "Gynecologist & Obstetrician",
+      "Diabetologist",
+      "Cardiologist",
+      "General Physician",
+      "Urologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 78608 26189",
+    "rating": 4.3,
+    "reviewCount": 834,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jan 2026"
+      }
+    ],
+    "facilities": [
+      "Pharmacy",
+      "Operation Theatres",
+      "Daycare Surgery"
+    ],
+    "verified": false,
+    "featured": false,
+    "opdFeeRange": [
+      500,
+      1050
+    ]
+  },
+  {
+    "id": "hos-12",
+    "name": "Lotus Hospital, Secunderabad",
+    "type": "Children's Hospital",
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "address": "189, Secunderabad, Hyderabad",
+    "lat": 17.3808,
+    "lng": 78.46954,
+    "beds": 62,
+    "specialties": [
+      "Psychiatrist",
+      "General Physician",
+      "Dermatologist",
+      "Dentist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 89607 85468",
+    "rating": 3.9,
+    "reviewCount": 1922,
+    "reviews": [
+      {
+        "author": "Anita G.",
+        "rating": 4,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "Ambulance",
+      "Diagnostics Lab",
+      "Daycare Surgery",
+      "Blood Bank",
+      "Cashless Insurance"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      400,
+      800
+    ]
+  },
+  {
+    "id": "hos-13",
+    "name": "Vatsalya Hospital, T. Nagar",
+    "type": "Maternity & Women's Hospital",
+    "city": "Chennai",
+    "area": "T. Nagar",
+    "address": "40, T. Nagar, Chennai",
+    "lat": 13.04777,
+    "lng": 80.30281,
+    "beds": 47,
+    "specialties": [
+      "ENT Specialist",
+      "Dermatologist",
+      "Pediatrician",
+      "Ophthalmologist",
+      "Gynecologist & Obstetrician"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 93699 32301",
+    "rating": 4,
+    "reviewCount": 2004,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "Ambulance",
+      "Diagnostics Lab",
+      "Operation Theatres",
+      "24×7 Emergency",
+      "Physiotherapy"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      500,
+      950
+    ]
+  },
+  {
+    "id": "hos-14",
+    "name": "Sunrise Hospital, Anna Nagar",
+    "type": "Children's Hospital",
+    "city": "Chennai",
+    "area": "Anna Nagar",
+    "address": "71, Anna Nagar, Chennai",
+    "lat": 13.05078,
+    "lng": 80.27359,
+    "beds": 89,
+    "specialties": [
+      "Urologist",
+      "Cardiologist",
+      "Ophthalmologist",
+      "Pediatrician"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 74025 77296",
+    "rating": 3.9,
+    "reviewCount": 575,
+    "reviews": [
+      {
+        "author": "Vivek N.",
+        "rating": 3,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Mar 2026"
+      }
+    ],
+    "facilities": [
+      "Physiotherapy",
+      "Blood Bank",
+      "Diagnostics Lab",
+      "ICU",
+      "Cashless Insurance"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      350,
+      1200
+    ]
+  },
+  {
+    "id": "hos-15",
+    "name": "Sunrise Clinic, Velachery",
+    "type": "Community Clinic",
+    "city": "Chennai",
+    "area": "Velachery",
+    "address": "112, Velachery, Chennai",
+    "lat": 13.084,
+    "lng": 80.2731,
+    "beds": 0,
+    "specialties": [
+      "Cardiologist",
+      "Orthopedic Surgeon",
+      "Pediatrician",
+      "Dentist",
+      "Urologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 70774 10517",
+    "rating": 4.6,
+    "reviewCount": 735,
+    "reviews": [
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Jun 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 5,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "Ambulance",
+      "Diagnostics Lab",
+      "Daycare Surgery",
+      "ICU",
+      "Blood Bank"
+    ],
+    "verified": false,
+    "featured": true,
+    "opdFeeRange": [
+      500,
+      1000
+    ]
+  },
+  {
+    "id": "hos-16",
+    "name": "Sparsh Hospital, Salt Lake",
+    "type": "Multi-speciality Hospital",
+    "city": "Kolkata",
+    "area": "Salt Lake",
+    "address": "149, Salt Lake, Kolkata",
+    "lat": 22.55043,
+    "lng": 88.38464,
+    "beds": 457,
+    "specialties": [
+      "Pediatrician",
+      "Orthopedic Surgeon",
+      "Urologist",
+      "Cardiologist",
+      "Dermatologist",
+      "Gynecologist & Obstetrician"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 91981 62034",
+    "rating": 4.6,
+    "reviewCount": 1288,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 5,
+        "text": "Very good with kids — my daughter wasn't scared at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "May 2026"
+      }
+    ],
+    "facilities": [
+      "Physiotherapy",
+      "Cashless Insurance",
+      "Diagnostics Lab",
+      "ICU"
+    ],
+    "verified": true,
+    "featured": true,
+    "opdFeeRange": [
+      500,
+      750
+    ]
+  },
+  {
+    "id": "hos-17",
+    "name": "Trinity Hospital, Howrah",
+    "type": "Multi-speciality Hospital",
+    "city": "Kolkata",
+    "area": "Howrah",
+    "address": "185, Howrah, Kolkata",
+    "lat": 22.58398,
+    "lng": 88.34645,
+    "beds": 212,
+    "specialties": [
+      "Urologist",
+      "Dermatologist",
+      "Ophthalmologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 87631 99613",
+    "rating": 4.1,
+    "reviewCount": 130,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Feb 2026"
+      },
+      {
+        "author": "Vivek N.",
+        "rating": 4,
+        "text": "Explained the reports in simple language. Felt genuinely cared for.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "ICU",
+      "Ambulance",
+      "Daycare Surgery",
+      "24×7 Emergency"
+    ],
+    "verified": true,
+    "featured": true,
+    "opdFeeRange": [
+      350,
+      750
+    ]
+  },
+  {
+    "id": "hos-18",
+    "name": "Jeevan Clinic, Ballygunge",
+    "type": "Community Clinic",
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "address": "97, Ballygunge, Kolkata",
+    "lat": 22.56582,
+    "lng": 88.37053,
+    "beds": 0,
+    "specialties": [
+      "Dentist",
+      "Orthopedic Surgeon",
+      "Dermatologist",
+      "General Physician",
+      "Ophthalmologist",
+      "Gynecologist & Obstetrician"
+    ],
+    "emergency24x7": false,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 77858 13101",
+    "rating": 3.9,
+    "reviewCount": 1800,
+    "reviews": [
+      {
+        "author": "Rohan M.",
+        "rating": 3,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sneha K.",
+        "rating": 3,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "May 2026"
+      }
+    ],
+    "facilities": [
+      "Daycare Surgery",
+      "Cashless Insurance",
+      "Blood Bank",
+      "24×7 Emergency"
+    ],
+    "verified": false,
+    "featured": true,
+    "opdFeeRange": [
+      500,
+      750
+    ]
+  },
+  {
+    "id": "hos-19",
+    "name": "Sunrise Hospital, Hinjewadi",
+    "type": "Maternity & Women's Hospital",
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "address": "50, Hinjewadi, Pune",
+    "lat": 18.49945,
+    "lng": 73.8456,
+    "beds": 127,
+    "specialties": [
+      "Orthopedic Surgeon",
+      "Cardiologist",
+      "Gastroenterologist",
+      "Dentist",
+      "Diabetologist",
+      "Pediatrician"
+    ],
+    "emergency24x7": false,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 89788 29028",
+    "rating": 4.7,
+    "reviewCount": 834,
+    "reviews": [
+      {
+        "author": "Kiran P.",
+        "rating": 4,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 5,
+        "text": "Accurate diagnosis when two other doctors couldn't figure it out.",
+        "date": "May 2026"
+      }
+    ],
+    "facilities": [
+      "Pharmacy",
+      "Daycare Surgery",
+      "Physiotherapy",
+      "Cashless Insurance",
+      "Blood Bank",
+      "Operation Theatres"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      450,
+      800
+    ]
+  },
+  {
+    "id": "hos-20",
+    "name": "Global Hospital, Hinjewadi",
+    "type": "Children's Hospital",
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "address": "102, Hinjewadi, Pune",
+    "lat": 18.47684,
+    "lng": 73.88418,
+    "beds": 91,
+    "specialties": [
+      "General Physician",
+      "Diabetologist",
+      "ENT Specialist",
+      "Ophthalmologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 99981 16451",
+    "rating": 4.1,
+    "reviewCount": 1966,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 3,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Good experience overall, though the waiting area gets crowded in evenings.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Kiran P.",
+        "rating": 5,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Jun 2026"
+      }
+    ],
+    "facilities": [
+      "Daycare Surgery",
+      "ICU",
+      "Diagnostics Lab",
+      "Blood Bank",
+      "24×7 Emergency"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      450,
+      850
+    ]
+  },
+  {
+    "id": "hos-21",
+    "name": "Vatsalya Clinic, Koregaon Park",
+    "type": "Community Clinic",
+    "city": "Pune",
+    "area": "Koregaon Park",
+    "address": "94, Koregaon Park, Pune",
+    "lat": 18.54173,
+    "lng": 73.88192,
+    "beds": 0,
+    "specialties": [
+      "Gastroenterologist",
+      "Ophthalmologist",
+      "Gynecologist & Obstetrician",
+      "Dentist",
+      "Cardiologist",
+      "Urologist",
+      "Diabetologist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 73193 51536",
+    "rating": 3.9,
+    "reviewCount": 1292,
+    "reviews": [
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Mar 2026"
+      },
+      {
+        "author": "Farida S.",
+        "rating": 3,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "ICU",
+      "Pharmacy",
+      "24×7 Emergency",
+      "Operation Theatres",
+      "Cashless Insurance"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      450,
+      750
+    ]
+  },
+  {
+    "id": "hos-22",
+    "name": "Jeevan Hospital, Satellite",
+    "type": "Multi-speciality Hospital",
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "address": "62, Satellite, Ahmedabad",
+    "lat": 23.04353,
+    "lng": 72.55524,
+    "beds": 549,
+    "specialties": [
+      "General Physician",
+      "Dermatologist",
+      "Psychiatrist"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 80038 87557",
+    "rating": 4.5,
+    "reviewCount": 683,
+    "reviews": [
+      {
+        "author": "Farida S.",
+        "rating": 4,
+        "text": "Follow-up was smooth and they answered my call for a doubt later.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Rohan M.",
+        "rating": 4,
+        "text": "Very patient and explained everything clearly. Didn't feel rushed at all.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "May 2026"
+      }
+    ],
+    "facilities": [
+      "Cashless Insurance",
+      "ICU",
+      "Blood Bank",
+      "Pharmacy",
+      "Ambulance",
+      "Daycare Surgery"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      350,
+      800
+    ]
+  },
+  {
+    "id": "hos-23",
+    "name": "Jeevan Hospital, Satellite",
+    "type": "Super-speciality Hospital",
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "address": "157, Satellite, Ahmedabad",
+    "lat": 22.99251,
+    "lng": 72.60853,
+    "beds": 483,
+    "specialties": [
+      "Dermatologist",
+      "Psychiatrist",
+      "Ophthalmologist",
+      "Orthopedic Surgeon"
+    ],
+    "emergency24x7": true,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 84904 41488",
+    "rating": 4.2,
+    "reviewCount": 452,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Listens carefully and doesn't push unnecessary tests. Highly recommend.",
+        "date": "Apr 2026"
+      },
+      {
+        "author": "Sameer L.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "Jan 2026"
+      },
+      {
+        "author": "Joseph V.",
+        "rating": 4,
+        "text": "Clinic was clean and the wait time was short. Prescription worked well.",
+        "date": "May 2026"
+      }
+    ],
+    "facilities": [
+      "Ambulance",
+      "Blood Bank",
+      "Pharmacy"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      350,
+      950
+    ]
+  },
+  {
+    "id": "hos-24",
+    "name": "Jeevan Hospital, Satellite",
+    "type": "Maternity & Women's Hospital",
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "address": "173, Satellite, Ahmedabad",
+    "lat": 23.00701,
+    "lng": 72.52681,
+    "beds": 95,
+    "specialties": [
+      "General Physician",
+      "Gastroenterologist",
+      "Cardiologist",
+      "Urologist",
+      "Psychiatrist",
+      "Dermatologist"
+    ],
+    "emergency24x7": false,
+    "opdTimings": "OPD: Mon – Sat, 9:00 AM – 8:00 PM",
+    "phone": "+91 76452 72142",
+    "rating": 3.9,
+    "reviewCount": 126,
+    "reviews": [
+      {
+        "author": "Joseph V.",
+        "rating": 3,
+        "text": "Fees are reasonable for the quality of consultation.",
+        "date": "May 2026"
+      },
+      {
+        "author": "Amit T.",
+        "rating": 4,
+        "text": "Took time to answer all my questions. Staff was courteous.",
+        "date": "Apr 2026"
+      }
+    ],
+    "facilities": [
+      "Physiotherapy",
+      "Diagnostics Lab",
+      "24×7 Emergency",
+      "ICU",
+      "Operation Theatres"
+    ],
+    "verified": true,
+    "featured": false,
+    "opdFeeRange": [
+      450,
+      1150
+    ]
+  }
+]

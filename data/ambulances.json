@@ -1,0 +1,572 @@
+[
+  {
+    "id": "amb-1",
+    "name": "MedRush Ambulance Services",
+    "city": "Mumbai",
+    "coverage": "Mumbai & suburbs (up to 50 km)",
+    "lat": 19.06118,
+    "lng": 72.92078,
+    "phone": "+91 73679 10434",
+    "etaMinutes": 23,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4,
+    "reviewCount": 624,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1050,
+        "perKm": 33,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 2200,
+        "perKm": 45,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      }
+    ]
+  },
+  {
+    "id": "amb-2",
+    "name": "MedRush Ambulance Services",
+    "city": "Mumbai",
+    "coverage": "Mumbai & suburbs (up to 50 km)",
+    "lat": 19.02976,
+    "lng": 72.86268,
+    "phone": "+91 98870 86866",
+    "etaMinutes": 19,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.1,
+    "reviewCount": 595,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 900,
+        "perKm": 22,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 5500,
+        "perKm": 76,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 900,
+        "perKm": 28,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      }
+    ]
+  },
+  {
+    "id": "amb-3",
+    "name": "MedRush Ambulance Services",
+    "city": "Delhi",
+    "coverage": "Delhi & suburbs (up to 50 km)",
+    "lat": 28.61973,
+    "lng": 77.1894,
+    "phone": "+91 96160 69909",
+    "etaMinutes": 16,
+    "available24x7": true,
+    "gpsTracked": false,
+    "rating": 4.3,
+    "reviewCount": 212,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 5500,
+        "perKm": 87,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1400,
+        "perKm": 25,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 3200,
+        "perKm": 54,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      }
+    ]
+  },
+  {
+    "id": "amb-4",
+    "name": "Lifeline Ambulance Services",
+    "city": "Delhi",
+    "coverage": "Delhi & suburbs (up to 50 km)",
+    "lat": 28.58215,
+    "lng": 77.25464,
+    "phone": "+91 87166 64417",
+    "etaMinutes": 17,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.3,
+    "reviewCount": 546,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 950,
+        "perKm": 28,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 2600,
+        "perKm": 47,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      }
+    ]
+  },
+  {
+    "id": "amb-5",
+    "name": "Sanjeevani Ambulance Services",
+    "city": "Bengaluru",
+    "coverage": "Bengaluru & suburbs (up to 50 km)",
+    "lat": 13.01134,
+    "lng": 77.57313,
+    "phone": "+91 94993 93285",
+    "etaMinutes": 14,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.3,
+    "reviewCount": 350,
+    "verified": false,
+    "featured": false,
+    "types": [
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 850,
+        "perKm": 20,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1400,
+        "perKm": 29,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 5400,
+        "perKm": 66,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      }
+    ]
+  },
+  {
+    "id": "amb-6",
+    "name": "Guardian Ambulance Services",
+    "city": "Bengaluru",
+    "coverage": "Bengaluru & suburbs (up to 50 km)",
+    "lat": 12.96535,
+    "lng": 77.64078,
+    "phone": "+91 93802 60440",
+    "etaMinutes": 24,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4,
+    "reviewCount": 255,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1250,
+        "perKm": 26,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 3150,
+        "perKm": 45,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      }
+    ]
+  },
+  {
+    "id": "amb-7",
+    "name": "Rapid Response Ambulance Services",
+    "city": "Hyderabad",
+    "coverage": "Hyderabad & suburbs (up to 50 km)",
+    "lat": 17.34966,
+    "lng": 78.47668,
+    "phone": "+91 84939 50617",
+    "etaMinutes": 11,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.1,
+    "reviewCount": 313,
+    "verified": false,
+    "featured": false,
+    "types": [
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 800,
+        "perKm": 22,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1350,
+        "perKm": 34,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 5650,
+        "perKm": 69,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      }
+    ]
+  },
+  {
+    "id": "amb-8",
+    "name": "Rapid Response Ambulance Services",
+    "city": "Hyderabad",
+    "coverage": "Hyderabad & suburbs (up to 50 km)",
+    "lat": 17.35677,
+    "lng": 78.52272,
+    "phone": "+91 84043 78716",
+    "etaMinutes": 15,
+    "available24x7": true,
+    "gpsTracked": false,
+    "rating": 4.3,
+    "reviewCount": 288,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1200,
+        "perKm": 27,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 850,
+        "perKm": 22,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      }
+    ]
+  },
+  {
+    "id": "amb-9",
+    "name": "Guardian Ambulance Services",
+    "city": "Chennai",
+    "coverage": "Chennai & suburbs (up to 50 km)",
+    "lat": 13.09707,
+    "lng": 80.24024,
+    "phone": "+91 90616 88002",
+    "etaMinutes": 9,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.2,
+    "reviewCount": 426,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1350,
+        "perKm": 28,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 3000,
+        "perKm": 60,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      },
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 500,
+        "perKm": 23,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      }
+    ]
+  },
+  {
+    "id": "amb-10",
+    "name": "Sanjeevani Ambulance Services",
+    "city": "Chennai",
+    "coverage": "Chennai & suburbs (up to 50 km)",
+    "lat": 13.09124,
+    "lng": 80.28604,
+    "phone": "+91 81301 30168",
+    "etaMinutes": 22,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.7,
+    "reviewCount": 149,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 4250,
+        "perKm": 76,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      },
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 550,
+        "perKm": 24,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 900,
+        "perKm": 23,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 3400,
+        "perKm": 59,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      }
+    ]
+  },
+  {
+    "id": "amb-11",
+    "name": "Guardian Ambulance Services",
+    "city": "Kolkata",
+    "coverage": "Kolkata & suburbs (up to 50 km)",
+    "lat": 22.57265,
+    "lng": 88.32863,
+    "phone": "+91 77361 12525",
+    "etaMinutes": 14,
+    "available24x7": true,
+    "gpsTracked": false,
+    "rating": 4.4,
+    "reviewCount": 408,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1150,
+        "perKm": 35,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 750,
+        "perKm": 20,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 2200,
+        "perKm": 56,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 5050,
+        "perKm": 63,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      }
+    ]
+  },
+  {
+    "id": "amb-12",
+    "name": "Sanjeevani Ambulance Services",
+    "city": "Kolkata",
+    "coverage": "Kolkata & suburbs (up to 50 km)",
+    "lat": 22.54301,
+    "lng": 88.36449,
+    "phone": "+91 83109 13908",
+    "etaMinutes": 12,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 3.9,
+    "reviewCount": 172,
+    "verified": false,
+    "featured": false,
+    "types": [
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 3100,
+        "perKm": 54,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1000,
+        "perKm": 33,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      }
+    ]
+  },
+  {
+    "id": "amb-13",
+    "name": "Guardian Ambulance Services",
+    "city": "Pune",
+    "coverage": "Pune & suburbs (up to 50 km)",
+    "lat": 18.54251,
+    "lng": 73.89893,
+    "phone": "+91 80569 72630",
+    "etaMinutes": 9,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.8,
+    "reviewCount": 78,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 2600,
+        "perKm": 46,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 850,
+        "perKm": 28,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 850,
+        "perKm": 18,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 4750,
+        "perKm": 75,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      }
+    ]
+  },
+  {
+    "id": "amb-14",
+    "name": "Sanjeevani Ambulance Services",
+    "city": "Pune",
+    "coverage": "Pune & suburbs (up to 50 km)",
+    "lat": 18.50452,
+    "lng": 73.87243,
+    "phone": "+91 93761 85419",
+    "etaMinutes": 11,
+    "available24x7": true,
+    "gpsTracked": false,
+    "rating": 4.8,
+    "reviewCount": 590,
+    "verified": true,
+    "featured": false,
+    "types": [
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 800,
+        "perKm": 23,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 3700,
+        "perKm": 81,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1400,
+        "perKm": 20,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      }
+    ]
+  },
+  {
+    "id": "amb-15",
+    "name": "Sanjeevani Ambulance Services",
+    "city": "Ahmedabad",
+    "coverage": "Ahmedabad & suburbs (up to 50 km)",
+    "lat": 23.06618,
+    "lng": 72.53207,
+    "phone": "+91 90957 89265",
+    "etaMinutes": 18,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.1,
+    "reviewCount": 168,
+    "verified": false,
+    "featured": false,
+    "types": [
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1150,
+        "perKm": 31,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 2600,
+        "perKm": 58,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      },
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 4300,
+        "perKm": 78,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      }
+    ]
+  },
+  {
+    "id": "amb-16",
+    "name": "MedRush Ambulance Services",
+    "city": "Ahmedabad",
+    "coverage": "Ahmedabad & suburbs (up to 50 km)",
+    "lat": 23.01704,
+    "lng": 72.53888,
+    "phone": "+91 97878 48597",
+    "etaMinutes": 21,
+    "available24x7": true,
+    "gpsTracked": true,
+    "rating": 4.7,
+    "reviewCount": 792,
+    "verified": true,
+    "featured": true,
+    "types": [
+      {
+        "type": "ICU Ambulance",
+        "baseFare": 4750,
+        "perKm": 90,
+        "note": "Mobile ICU with critical-care equipment and ICU-trained staff."
+      },
+      {
+        "type": "Basic Life Support (BLS)",
+        "baseFare": 1400,
+        "perKm": 33,
+        "note": "Oxygen, stretcher, trained attendant. For stable patient transfer."
+      },
+      {
+        "type": "Patient Transport (Non-emergency)",
+        "baseFare": 850,
+        "perKm": 20,
+        "note": "For discharges, dialysis visits and check-ups. No emergency gear."
+      },
+      {
+        "type": "Advanced Life Support (ALS)",
+        "baseFare": 3300,
+        "perKm": 43,
+        "note": "Ventilator, defibrillator, cardiac monitor, paramedic on board."
+      }
+    ]
+  }
+]
