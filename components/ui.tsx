@@ -20,8 +20,8 @@ export function FeaturedBadge() {
 
 export function VerifiedBadge() {
   return (
-    <span className="chip bg-brand-50 text-brand-700 border border-brand-200" title="Credentials verified (simulated for demo)">
-      ✓ Verified
+    <span className="chip bg-brand-50 text-brand-700 border border-brand-200" title="Sample data for this demo — not a real, credential-verified provider.">
+      ✓ Verified (demo)
     </span>
   );
 }

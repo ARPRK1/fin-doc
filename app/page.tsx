@@ -124,13 +124,15 @@ export default function HomePage() {
       </section>
 
       {/* ---------- Trust bar ---------- */}
+      {/* Honesty note: this is a demo build. Counts describe the sample dataset,
+          not a live, verified provider network — never claim "Verified" here. */}
       <section className="container-page mt-12">
         <div className="card grid grid-cols-2 gap-6 p-6 text-center sm:grid-cols-4">
           {[
-            ["88+", "Verified doctors"],
-            ["24", "Hospitals & clinics"],
-            ["16", "NABL-grade labs"],
-            ["24×7", "Emergency access"],
+            ["88+", "Sample doctor profiles"],
+            ["24", "Sample hospitals & clinics"],
+            ["16", "Sample diagnostic labs"],
+            ["24×7", "Real: 108 emergency access"],
           ].map(([n, l]) => (
             <div key={l}>
               <p className="text-2xl font-extrabold text-brand-700">{n}</p>
@@ -138,6 +140,11 @@ export default function HomePage() {
             </div>
           ))}
         </div>
+        <p className="mt-3 text-center text-xs text-slate-400">
+          This is a product demo. Provider listings are illustrative sample data, not a live directory of real,
+          verified doctors — only the 108 emergency number is real. Details on{" "}
+          <Link href="/partners" className="underline">/partners</Link>.
+        </p>
       </section>
 
       {/* ---------- Featured (paid, labeled) ---------- */}
