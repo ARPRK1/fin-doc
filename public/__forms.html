@@ -1,0 +1,24 @@
+<!--
+  Netlify Forms detection file.
+  Because the app is a Next.js static export, the interactive React form is
+  hydrated client-side and Netlify's build-time form bot can't see it. This
+  plain-HTML mirror lets Netlify register the form + fields at deploy time.
+  The real form (app/partners/page.tsx) POSTs to Netlify with the same name.
+  Submissions appear in: Netlify → finddoc-india → Forms (and email notifications).
+-->
+<html>
+  <head><title>Netlify form detection</title></head>
+  <body>
+    <form name="provider-signup" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input type="text" name="name" />
+      <input type="text" name="organisation" />
+      <input type="tel" name="phone" />
+      <input type="text" name="city" />
+      <input type="text" name="area" />
+      <select name="provider_type"><option>Doctor / Clinic</option></select>
+      <input type="text" name="consent" />
+      <textarea name="notes"></textarea>
+      <input type="text" name="bot-field" />
+    </form>
+  </body>
+</html>

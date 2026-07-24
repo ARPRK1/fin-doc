@@ -49,9 +49,62 @@ const PLANS = [
   },
 ];
 
+/** URL-encode form data for a Netlify Forms POST. */
+function encode(data: Record<string, string>) {
+  return Object.keys(data)
+    .map((k) => encodeURIComponent(k) + "=" + encodeURIComponent(data[k]))
+    .join("&");
+}
+
 export default function PartnersPage() {
   const [sent, setSent] = useState(false);
-  const [form, setForm] = useState({ name: "", org: "", phone: "", type: "Doctor / Clinic" });
+  const [submitting, setSubmitting] = useState(false);
+  const [err, setErr] = useState<string | null>(null);
+  const [form, setForm] = useState({
+    name: "",
+    org: "",
+    phone: "",
+    city: "Hyderabad",
+    area: "",
+    type: "Doctor / Clinic",
+    consent: false,
+  });
+
+  async function submitLead(e: React.FormEvent) {
+    e.preventDefault();
+    setErr(null);
+    if (!/^[6-9]\d{9}$/.test(form.phone.trim())) {
+      setErr("Please enter a valid 10-digit Indian mobile number.");
+      return;
+    }
+    if (!form.consent) {
+      setErr("Please confirm you're authorised to list this practice.");
+      return;
+    }
+    setSubmitting(true);
+    try {
+      // Netlify Forms: POST url-encoded body to "/" with a form-name field.
+      await fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: encode({
+          "form-name": "provider-signup",
+          name: form.name,
+          organisation: form.org,
+          phone: form.phone,
+          city: form.city,
+          area: form.area,
+          provider_type: form.type,
+          consent: form.consent ? "yes" : "no",
+        }),
+      });
+      setSent(true);
+    } catch {
+      setErr("Something went wrong. Please try again, or WhatsApp us.");
+    } finally {
+      setSubmitting(false);
+    }
+  }
 
   return (
     <div className="container-page animate-fadeUp py-10">
@@ -111,33 +164,58 @@ export default function PartnersPage() {
         <p className="mt-3 text-center text-xs text-slate-400">Prices are placeholders for the demo. Online payment (Razorpay) and a provider dashboard are on the roadmap.</p>
       </section>
 
-      {/* Lead form (simulation) */}
+      {/* Lead form — live capture via Netlify Forms (name: provider-signup) */}
       <section id="partner-form" className="card mx-auto mt-10 max-w-xl p-6">
-        <h2 className="text-xl font-bold text-slate-900">Partner with us</h2>
+        <h2 className="text-xl font-bold text-slate-900">List your practice</h2>
+        <p className="mt-1 text-sm text-slate-500">
+          Free to join. Tell us about your practice and our team will verify your registration
+          (medical council / NABH / NABL) and set up your listing.
+        </p>
         {sent ? (
           <div className="mt-4 rounded-xl bg-emerald-50 p-4 text-sm text-emerald-800">
-            ✓ Thanks, {form.name.split(" ")[0] || "partner"}! In the live product our onboarding team would verify your
-            registration (medical council / NABH / NABL) and set up your listing within 48 hours.
+            ✓ Thanks, {form.name.split(" ")[0] || "there"}! We&apos;ve received your details and will call{" "}
+            {form.phone ? `on ${form.phone}` : "you"} within 2 working days to verify and set up your free listing.
           </div>
         ) : (
           <form
+            name="provider-signup"
+            method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
             className="mt-4 grid gap-3"
-            onSubmit={(e) => {
-              e.preventDefault();
-              setSent(true);
-            }}
+            onSubmit={submitLead}
           >
+            {/* Netlify plumbing */}
+            <input type="hidden" name="form-name" value="provider-signup" />
+            <p className="hidden">
+              <label>Don&apos;t fill this out: <input name="bot-field" /></label>
+            </p>
+
             <input required value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="Your name" aria-label="Your name" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
             <input required value={form.org} onChange={(e) => setForm({ ...form, org: e.target.value })} placeholder="Practice / hospital / lab name" aria-label="Organisation" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
-            <input required value={form.phone} onChange={(e) => setForm({ ...form, phone: e.target.value })} placeholder="Mobile number" aria-label="Mobile number" inputMode="numeric" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
-            <select value={form.type} onChange={(e) => setForm({ ...form, type: e.target.value })} aria-label="Provider type" className="rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm">
+            <input required value={form.phone} onChange={(e) => setForm({ ...form, phone: e.target.value })} placeholder="Mobile number (10 digits)" aria-label="Mobile number" inputMode="numeric" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
+            <div className="grid grid-cols-2 gap-3">
+              <input required value={form.city} onChange={(e) => setForm({ ...form, city: e.target.value })} placeholder="City" aria-label="City" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
+              <input value={form.area} onChange={(e) => setForm({ ...form, area: e.target.value })} placeholder="Area / locality" aria-label="Area" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
+            </div>
+            <select value={form.type} onChange={(e) => setForm({ ...form, type: e.target.value })} aria-label="Provider type" name="provider_type" className="rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm">
               <option>Doctor / Clinic</option>
               <option>Hospital</option>
               <option>Diagnostic Lab</option>
               <option>Ambulance Service</option>
             </select>
-            <button type="submit" className="btn-primary">Request onboarding</button>
-            <p className="text-xs text-slate-400">Demo form — no data is sent anywhere.</p>
+            <label className="flex items-start gap-2 text-xs text-slate-500">
+              <input type="checkbox" checked={form.consent} onChange={(e) => setForm({ ...form, consent: e.target.checked })} className="mt-0.5 h-4 w-4 accent-brand-600" />
+              I&apos;m authorised to list this practice and consent to FindDoc contacting me and publishing these
+              details (name, specialty, address, fees, timings) on the platform.
+            </label>
+            {err && <p className="text-sm font-medium text-red-600">{err}</p>}
+            <button type="submit" disabled={submitting} className="btn-primary disabled:opacity-60">
+              {submitting ? "Submitting…" : "Request free listing"}
+            </button>
+            <p className="text-xs text-slate-400">
+              We only ever publish practice/professional details you provide with consent — never scraped data.
+            </p>
           </form>
         )}
       </section>
