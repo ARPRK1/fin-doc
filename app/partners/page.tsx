@@ -49,16 +49,16 @@ const PLANS = [
   },
 ];
 
-/** URL-encode form data for a Netlify Forms POST. */
-function encode(data: Record<string, string>) {
-  return Object.keys(data)
-    .map((k) => encodeURIComponent(k) + "=" + encodeURIComponent(data[k]))
-    .join("&");
-}
+/**
+ * Lead capture destination. No backend / no form service needed: the form
+ * opens the sender's email client pre-filled to this address. Reliable
+ * everywhere; the rep or doctor just taps send. Change this one constant to
+ * re-route leads (e.g. to a dedicated ops inbox later).
+ */
+const LEADS_EMAIL = "rp271187@gmail.com";
 
 export default function PartnersPage() {
   const [sent, setSent] = useState(false);
-  const [submitting, setSubmitting] = useState(false);
   const [err, setErr] = useState<string | null>(null);
   const [form, setForm] = useState({
     name: "",
@@ -70,7 +70,7 @@ export default function PartnersPage() {
     consent: false,
   });
 
-  async function submitLead(e: React.FormEvent) {
+  function submitLead(e: React.FormEvent) {
     e.preventDefault();
     setErr(null);
     if (!/^[6-9]\d{9}$/.test(form.phone.trim())) {
@@ -78,32 +78,26 @@ export default function PartnersPage() {
       return;
     }
     if (!form.consent) {
-      setErr("Please confirm you're authorised to list this practice.");
+      setErr("Please tick the consent box so we can list your practice.");
       return;
     }
-    setSubmitting(true);
-    try {
-      // Netlify Forms: POST url-encoded body to "/" with a form-name field.
-      await fetch("/", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: encode({
-          "form-name": "provider-signup",
-          name: form.name,
-          organisation: form.org,
-          phone: form.phone,
-          city: form.city,
-          area: form.area,
-          provider_type: form.type,
-          consent: form.consent ? "yes" : "no",
-        }),
-      });
-      setSent(true);
-    } catch {
-      setErr("Something went wrong. Please try again, or WhatsApp us.");
-    } finally {
-      setSubmitting(false);
-    }
+    // Build a pre-filled email with the lead details.
+    const subject = `New FindDoc listing: ${form.org || form.name} (${form.city})`;
+    const body = [
+      `New provider listing request via FindDoc India`,
+      ``,
+      `Name: ${form.name}`,
+      `Practice / hospital / lab: ${form.org}`,
+      `Type: ${form.type}`,
+      `City: ${form.city}`,
+      `Area / locality: ${form.area || "-"}`,
+      `Mobile: ${form.phone}`,
+      `Consent to list & be contacted: Yes`,
+      ``,
+      `— Sent from finddoc-india.netlify.app/partners`,
+    ].join("\n");
+    window.location.href = `mailto:${LEADS_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    setSent(true);
   }
 
   return (
@@ -173,24 +167,13 @@ export default function PartnersPage() {
         </p>
         {sent ? (
           <div className="mt-4 rounded-xl bg-emerald-50 p-4 text-sm text-emerald-800">
-            ✓ Thanks, {form.name.split(" ")[0] || "there"}! We&apos;ve received your details and will call{" "}
-            {form.phone ? `on ${form.phone}` : "you"} within 2 working days to verify and set up your free listing.
+            ✓ Almost done! Your email app should have opened with your details filled in — just press <strong>Send</strong>.
+            If nothing opened, email us directly at{" "}
+            <a href={`mailto:${LEADS_EMAIL}`} className="underline">{LEADS_EMAIL}</a>. We&apos;ll verify and set up your
+            free listing within 2 working days.
           </div>
         ) : (
-          <form
-            name="provider-signup"
-            method="POST"
-            data-netlify="true"
-            netlify-honeypot="bot-field"
-            className="mt-4 grid gap-3"
-            onSubmit={submitLead}
-          >
-            {/* Netlify plumbing */}
-            <input type="hidden" name="form-name" value="provider-signup" />
-            <p className="hidden">
-              <label>Don&apos;t fill this out: <input name="bot-field" /></label>
-            </p>
-
+          <form className="mt-4 grid gap-3" onSubmit={submitLead}>
             <input required value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="Your name" aria-label="Your name" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
             <input required value={form.org} onChange={(e) => setForm({ ...form, org: e.target.value })} placeholder="Practice / hospital / lab name" aria-label="Organisation" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
             <input required value={form.phone} onChange={(e) => setForm({ ...form, phone: e.target.value })} placeholder="Mobile number (10 digits)" aria-label="Mobile number" inputMode="numeric" className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm" />
@@ -210,9 +193,7 @@ export default function PartnersPage() {
               details (name, specialty, address, fees, timings) on the platform.
             </label>
             {err && <p className="text-sm font-medium text-red-600">{err}</p>}
-            <button type="submit" disabled={submitting} className="btn-primary disabled:opacity-60">
-              {submitting ? "Submitting…" : "Request free listing"}
-            </button>
+            <button type="submit" className="btn-primary">Request free listing</button>
             <p className="text-xs text-slate-400">
               We only ever publish practice/professional details you provide with consent — never scraped data.
             </p>
